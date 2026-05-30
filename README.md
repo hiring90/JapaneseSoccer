@@ -4,7 +4,7 @@ A modern, full-stack e-commerce website for soccer jerseys built with Next.js 14
 
 ## Demo
 
-![Desktop Demo](/website-demo-image/soccer_home.png "Desktop Demo")
+![Desktop Demo](./website-demo-image/soccer_home.png "Desktop Demo")
 
 ## Features
 
@@ -20,7 +20,7 @@ A modern, full-stack e-commerce website for soccer jerseys built with Next.js 14
 - **Cloudinary Integration**: Optional cloud image hosting for better performance
 - **Intelligent Enrichment**: Automatic product categorization and pricing
 
-![Desktop Demo](/website-demo-image/soccer_shop.png "Desktop Demo")
+![Desktop Demo](./website-demo-image/soccer_shop.png "Desktop Demo")
 
 ## Tech Stack
 
